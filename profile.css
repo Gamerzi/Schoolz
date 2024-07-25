@@ -1,0 +1,7 @@
+body {
+    margin-top: 800px;
+    background-image: url('7.1.png'); /* Replace with your image path */
+    background-size: cover; /* Cover the entire screen */
+    background-repeat: no-repeat; /* Prevent repetition */
+    background-position: center center; /* Center the image */
+}
